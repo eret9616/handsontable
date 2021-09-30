@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "handsontable": "^7.1.1",
+    "handsontable": "^10.0.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "vue": "^2.6.10"
